@@ -1,0 +1,21 @@
+{
+  "name": "cmpe280_experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codingNinjaSatoshiSeven/cmpe280_experiment.git",
+  "author": "7seven7lst <shengtaoli0110@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "jade": "~1.11.0",
+    "line-reader": "^0.4.0",
+    "serve-favicon": "~2.4.5"
+  }
+}
